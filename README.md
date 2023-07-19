@@ -1,6 +1,6 @@
 # Tobey's website for Project N
 
-![multiscreen](docs/amiresponsive.png)
+![amiresponsive](docs/amiresponsive.PNG)
 
 [View the deployed website here](https://https://shipleysteve.github.io/)
 
