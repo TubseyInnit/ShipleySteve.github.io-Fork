@@ -2,7 +2,7 @@
 
 ![amiresponsive](docs/amiresponsive.PNG)
 
-[View the deployed website here](https://https://shipleysteve.github.io/)
+[View the deployed website here](https://shipleysteve.github.io/)
 
 ## User Experience (UX)
 
