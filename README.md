@@ -1,8 +1,10 @@
-# Tobey's website for Project N
+# Tobey's and Mohammed's Fork of Project N
 
 ![amiresponsive](docs/amiresponsive.PNG)
 
-[View the deployed website here](https://shipleysteve.github.io/)
+[View the deployed website here](https://tubseyinnit.github.io/ShipleySteve.github.io-Fork/)
+
+^^^ Live Branch in this Repo can be seen with the link above ^^^
 
 ## User Experience (UX)
 
@@ -118,8 +120,8 @@ The following issues were raised during my project meeting with the client:
 
 The W3C validator was used to validate the HTML and CSS pages.
 
-* [HTML Validation](https://validator.w3.org/nu/?doc=https%3A%2F%2Fshipleysteve.github.io%2F)
-* [CSS Validation](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fshipleysteve.github.io%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+* [HTML Validation](https://validator.w3.org/nu/?doc=https%3A%2F%2Ftubseyinnit.github.io%2FShipleySteve.github.io-Fork%2F)
+* [CSS Validation](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Ftubseyinnit.github.io%2FShipleySteve.github.io-Fork%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
 
 
